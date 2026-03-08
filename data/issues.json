@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Payment processing timeout on large transactions",
+    "status": "open",
+    "label": "bug",
+    "priority": "high",
+    "createdAt": "2025-12-01T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Account balance mismatch after wire transfer",
+    "status": "open",
+    "label": "bug",
+    "priority": "high",
+    "createdAt": "2025-12-02T14:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "KYC verification email not sent",
+    "status": "closed",
+    "label": "bug",
+    "priority": "medium",
+    "createdAt": "2025-12-03T09:15:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Dashboard chart renders incorrectly on mobile",
+    "status": "open",
+    "label": "frontend",
+    "priority": "low",
+    "createdAt": "2025-12-04T11:45:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Add two-factor authentication support",
+    "status": "open",
+    "label": "feature",
+    "priority": "high",
+    "createdAt": "2025-12-05T08:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Compliance report export fails for Q4",
+    "status": "open",
+    "label": "bug",
+    "priority": "high",
+    "createdAt": "2025-12-06T16:20:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Customer onboarding flow needs redesign",
+    "status": "closed",
+    "label": "feature",
+    "priority": "medium",
+    "createdAt": "2025-12-07T13:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Payment gateway integration with Stripe",
+    "status": "open",
+    "label": "feature",
+    "priority": "medium",
+    "createdAt": "2025-12-08T10:30:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Audit log missing entries for admin actions",
+    "status": "open",
+    "label": "bug",
+    "priority": "high",
+    "createdAt": "2025-12-09T15:00:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Transaction fee calculation rounding error",
+    "status": "open",
+    "label": "bug",
+    "priority": "medium",
+    "createdAt": "2025-12-10T12:00:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Refund workflow not triggering notifications",
+    "status": "open",
+    "label": "bug",
+    "priority": "high",
+    "createdAt": "2025-12-11T09:45:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Add dark mode to settings page",
+    "status": "closed",
+    "label": "feature",
+    "priority": "low",
+    "createdAt": "2025-12-12T14:00:00Z"
+  },
+  {
+    "id": 13,
+    "title": "ACH transfer delay exceeding SLA",
+    "status": "open",
+    "label": "bug",
+    "priority": "high",
+    "createdAt": "2025-12-13T11:30:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Improve search performance on customer lookup",
+    "status": "open",
+    "label": "performance",
+    "priority": "medium",
+    "createdAt": "2025-12-14T10:00:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Credit card validation rejecting valid Amex numbers",
+    "status": "open",
+    "label": "bug",
+    "priority": "high",
+    "createdAt": "2025-12-15T08:30:00Z"
+  },
+  {
+    "id": 16,
+    "title": "Payment reconciliation report formatting",
+    "status": "closed",
+    "label": "feature",
+    "priority": "low",
+    "createdAt": "2025-12-16T16:00:00Z"
+  },
+  {
+    "id": 17,
+    "title": "Multi-currency support for wire transfers",
+    "status": "open",
+    "label": "feature",
+    "priority": "high",
+    "createdAt": "2025-12-17T09:00:00Z"
+  },
+  {
+    "id": 18,
+    "title": "Batch payment upload CSV parser broken",
+    "status": "open",
+    "label": "bug",
+    "priority": "medium",
+    "createdAt": "2025-12-18T14:15:00Z"
+  },
+  {
+    "id": 19,
+    "title": "Session timeout too aggressive for compliance forms",
+    "status": "open",
+    "label": "bug",
+    "priority": "medium",
+    "createdAt": "2025-12-19T11:00:00Z"
+  },
+  {
+    "id": 20,
+    "title": "Automated fraud detection false positives",
+    "status": "open",
+    "label": "bug",
+    "priority": "high",
+    "createdAt": "2025-12-20T10:30:00Z"
+  }
+]

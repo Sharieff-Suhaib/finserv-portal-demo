@@ -1,0 +1,66 @@
+[
+  {
+    "id": "C001",
+    "name": "Acme Financial Corp",
+    "email": "ops@acmefinancial.com",
+    "tier": "enterprise",
+    "balance": 1250000.50,
+    "createdAt": "2023-01-15T00:00:00Z"
+  },
+  {
+    "id": "C002",
+    "name": "Birch Wealth Management",
+    "email": "info@birchwealth.com",
+    "tier": "premium",
+    "balance": 540000.00,
+    "createdAt": "2023-03-22T00:00:00Z"
+  },
+  {
+    "id": "C003",
+    "name": "Cedar Savings LLC",
+    "email": "support@cedarsavings.com",
+    "tier": "standard",
+    "balance": 78000.25,
+    "createdAt": "2023-06-10T00:00:00Z"
+  },
+  {
+    "id": "C004",
+    "name": "Delta Capital Partners",
+    "email": "admin@deltacapital.com",
+    "tier": "enterprise",
+    "balance": 3200000.00,
+    "createdAt": "2023-02-01T00:00:00Z"
+  },
+  {
+    "id": "C005",
+    "name": "Elm Street Banking",
+    "email": "hello@elmstreetbank.com",
+    "tier": "standard",
+    "balance": 125000.75,
+    "createdAt": "2023-08-14T00:00:00Z"
+  },
+  {
+    "id": "C006",
+    "name": "Foxglove Insurance Group",
+    "email": "claims@foxgloveins.com",
+    "tier": "premium",
+    "balance": 890000.00,
+    "createdAt": "2023-04-05T00:00:00Z"
+  },
+  {
+    "id": "C007",
+    "name": "Granite Trust Co",
+    "email": "trust@granitetrust.com",
+    "tier": "enterprise",
+    "balance": 5670000.00,
+    "createdAt": "2022-11-30T00:00:00Z"
+  },
+  {
+    "id": "C008",
+    "name": "Harbor Credit Union",
+    "email": "members@harborcu.org",
+    "tier": "standard",
+    "balance": 45000.00,
+    "createdAt": "2024-01-20T00:00:00Z"
+  }
+]
